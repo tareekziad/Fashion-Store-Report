@@ -1,0 +1,28 @@
+Fahion 1 :
+
+Q1 : for top 4 master category who is use most (male | female or what ) ? 
+Q2 : for top wear subcategory in summer season what is top article type ?
+Q3 : in interval between (2018 to 2019) what is most category ?
+Q4 : for article types shirts what is most color that used ?
+Q5 : for top wear what is most article type ?
+Q6 : which gender use watches most and what is the most used color ?
+Q7 : what is most subcategory that used for accesories in winter ?
+Q8 : what most uage wear in fall season ?
+
+
+---------------------------------------------------------------------------------------------
+Fashion 2 :
+
+Q1 : for top most brand what is average price ?
+Q2 : also for least brand what is average price ? 
+Q3 : which gender use Puma brand most ?
+Q4 : which color was used for Puma brand ?
+Q5 : what number of image for puma brand that with color green ?
+
+-----------------------------------------------------------------------------------------------
+Fashion 3:
+Q1 : for top 5 brand what is max , min Price ?
+Q2 : avergae discount percentage for each brand?
+Q3 : what is max dicount for jolie-robe brand ?
+Q4 : most color requered for puma brand ?
+Q5 : which gender use blue puma brand most and get details about product ?
